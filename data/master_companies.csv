@@ -1,0 +1,11 @@
+ticker,name,sector,exchange,website
+RELIANCE,Reliance Industries,Oil & Gas,NSE,https://www.ril.com
+TCS,Tata Consultancy Services,IT,NSE,https://www.tcs.com
+HDFCBANK,HDFC Bank,Banking,NSE,https://www.hdfcbank.com
+INFY,Infosys,IT,NSE,https://www.infosys.com
+ITC,ITC Limited,FMCG,NSE,https://www.itcportal.com
+SBIN,State Bank of India,Banking,NSE,https://www.sbi.co.in
+BHARTIARTL,Bharti Airtel,Telecom,NSE,https://www.airtel.in
+KOTAKBANK,Kotak Mahindra Bank,Banking,NSE,https://www.kotak.com
+ICICIBANK,ICICI Bank,Banking,NSE,https://www.icicibank.com
+HINDUNILVR,Hindustan Unilever,FMCG,NSE,https://www.hul.co.in

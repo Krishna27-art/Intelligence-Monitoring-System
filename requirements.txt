@@ -1,0 +1,15 @@
+streamlit
+feedparser
+transformers
+torch
+torchvision
+pandas
+schedule
+requests
+beautifulsoup4
+lxml
+plotly
+aiohttp
+aiodns
+pdfplumber
+xmltodict

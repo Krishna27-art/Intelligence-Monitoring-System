@@ -1,0 +1,8 @@
+aiohttp
+feedparser
+beautifulsoup4
+pandas
+streamlit
+schedule
+psycopg2-binary
+python-dotenv
