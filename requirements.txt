@@ -13,3 +13,5 @@ aiohttp
 aiodns
 pdfplumber
 xmltodict
+redis
+python-telegram-bot
